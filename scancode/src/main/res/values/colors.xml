@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="default_gray">#d7d7d7</color>
+
+    <color name="default_tvgray">#e2e5e9</color>
+    <color name="default_bg">#e2e5e9</color>
+    <color name="relevance_green">#6fce32</color>
+
+    <!-- 确认、登录按钮背景色 -->
+    <color name="suer_butn">#e97730</color>
+    <color name="suer_butn_pressed">#e6650f</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="tv_gravy">#60000000</color>
+
+    <color name="red">#ff0000</color>
+    <color name="btn_red">#a62e27</color>
+
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+
+
+    <color name="relevance_white">#FFFFFF</color>
+    <color name="button_bulen">#94cdf3</color>
+
+    <color name="tv_color">#2c323a</color>
+    <color name="blak">#353535</color>
+
+    <color name="default_bulen">#006699</color>
+
+
+<!--首页的按钮的颜色块-->
+    <color name="main_press_bulen">#00b7c7</color>
+    <color name="main_bing">#00b7c7</color>
+    <color name="main_huan">#2e8df5</color>
+    <color name="main_jia">#546add</color>
+    <color name="main_jie">#6258d3</color>
+    <color name="main_xia">#d7364c</color>
+    <color name="main_bulen">#0099CC</color>
+    <color name="main_apart">#f75478</color>
+    <color name="button_red">#a62e2e</color>
+    <color name="tv_break">#3c3c3c</color>
+    //
+</resources>
